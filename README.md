@@ -1,4 +1,4 @@
-<h1 align="center">HELLO WORLD! I'm Mitul Jain👋</h1>
+<h1 align="center">HELLO WORLD! I'm Mitul Jain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="center">A tech boy exploring the wide domain of COMPUTER SCIENCE !!</h3>
 
 
